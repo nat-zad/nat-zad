@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @nat-zad
+
 - 👀 I’m interested in data analytics & science, customer analytics, and media!
-- 
+ 
 - 🌱 I’m an innovative and scientifically rigorous data scientist interested in contributing machine   learning experience. Eager to offer abilities in quantitative modeling and experimentation with a team-oriented attitude.
-- 
+ 
 - 💞️ I’m looking to collaborate on media history, customer recommendation analysis.
-- 
+ 
 - 📫 How to reach me nzad.code@gmail.com
 
 <!---
