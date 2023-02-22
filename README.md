@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nat-zad
 
-- 👀 I’m interested in data analytics & science, langage, customer analytics, and media!
+- 👀 I’m interested in data analytics & science, language, customer analytics, and media!
  
 - 🌱 I’m an innovative and scientifically rigorous data scientist interested in contributing machine   learning experience. Eager to offer abilities in quantitative modeling and experimentation with a team-oriented attitude.
  
